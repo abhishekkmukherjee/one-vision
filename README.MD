@@ -4,7 +4,7 @@
 
 A simple computer vision application that allows users to apply various image processing techniques and face detection to uploaded images.
 
-![App Screenshot](assets/result.png)
+![App Screenshot](result.png)
 
 ## Features
 
