@@ -95,7 +95,7 @@ computer-vision-project/
 
 ## Blog Post
 
-For a detailed walkthrough of how this project was built, check out my blog post: [Make Your First Computer Vision Project: A Step-by-Step Guide](https://www.yourblog.com/computer-vision-project)
+For a detailed walkthrough of how this project was built, check out my blog post: [Make Your First Computer Vision Project: A Step-by-Step Guide](https://abmukherjee.hashnode.dev/make-your-first-computer-vision-project-a-step-by-step-guide)
 
 ## Future Enhancements
 
